@@ -13,7 +13,8 @@ class Solution:
             for next_i, next_j in [(i+1, j), (i-1, j), (i, j+1), (i, j-1)]:
                 if 0 <= next_i < m and 0 <= next_j < n and matrix[i][j] < matrix[next_i][next_j]:
                     length = 1 + dfs(next_i, next_j)
-                    res = max(res, length)
+                    if length > res:
+                        res = length
             cache[i][j] = res
             return res
 
@@ -26,6 +27,8 @@ class Solution:
 
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
-                res = max(res, dfs(i, j))
+                tmp = dfs(i, j)
+                if tmp > res:
+                    res = tmp
 
         return res

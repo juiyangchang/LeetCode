@@ -13,5 +13,6 @@ This is a (partial) list of Python 3/2 scripts I've done on leetcode.com
 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Stack  | [Python 3](332_Reconstruct_Itinerary.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](394_Decode_String.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](417_Pacific_Atlantic_Water_Flow.py) |
+| [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Backtracking | [Python 3](473_Matchsticks_to_Square.py) |
 | [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) |Backtracking | [Python 3](491_Increasing_Subsequences.py) |
 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Graph |[Python 3](576_Out_of_Boundary_Paths.py) |

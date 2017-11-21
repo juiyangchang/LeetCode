@@ -4,6 +4,9 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 
 |     Problem          |Tags|      Code      |
 |-----------------|---|---------------|
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | [Python 3](python/33_Search_in_Rotated_Sorted_Array.py)| 
+| [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Binary Search | [Python 3](python/34_Search_for_a_Range.py) |
+|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Binary Search  | [Python 3](python/35_Search_Insert_Position.py) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |

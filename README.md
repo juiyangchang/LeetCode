@@ -4,15 +4,20 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 
 |     Problem          |Tags|      Code      |
 |-----------------|---|---------------|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash | [Python 3](python/3_Longest_Substring_Without_Repeating_Characters.py)   |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search | [Python 3](python/4_Median_of_Two_Sorted_Arrays.py) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | [Python 3](python/33_Search_in_Rotated_Sorted_Array.py)| 
 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Binary Search | [Python 3](python/34_Search_for_a_Range.py) |
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Binary Search  | [Python 3](python/35_Search_Insert_Position.py) |
+|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Hashing  | [Python 3](python/36_Valid_Sudoku.py)  |
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  Hashing  | [Python 3](python3/49_Group_Anagrams.py)  |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | [Python 3](python/74_Search_a_2D_Matrix.py) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph) |BFS/DFS | [Python 3](python/133_Clone_Graph.py)  |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hashing | [Python 3](python3/202_Happy_Number.py)  |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hashing | [Python 3](python3/205_Isomorphic_Strings.py)  |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |
 | [329. Longest Increasing Path in a Matrix ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| DFS | [Python 3](python/329_Longest_Increasing_Path_in_a_Matrix.py)|

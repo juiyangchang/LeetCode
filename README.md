@@ -12,10 +12,12 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Hashing  | [Python 3](python/36_Valid_Sudoku.py)  |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  Hashing  | [Python 3](python3/49_Group_Anagrams.py)  |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | [Python 3](python/74_Search_a_2D_Matrix.py) |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | Binary Tree |  [Python 3](python/94_Binary_Tree_Inorder_Traversal.py)  |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph) |BFS/DFS | [Python 3](python/133_Clone_Graph.py)  |
+| [136. Single Number](https://leetcode.com/problems/single-number)  | Bit Manipulation | [Python 3](python/136_Single_Number.py)  |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hashing | [Python 3](python3/202_Happy_Number.py)  |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hashing | [Python 3](python3/205_Isomorphic_Strings.py)  |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 

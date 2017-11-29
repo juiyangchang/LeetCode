@@ -12,6 +12,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Hashing  | [Python 3](python/36_Valid_Sudoku.py)  |
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  Hashing  | [Python 3](python3/49_Group_Anagrams.py)  |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | [Python 3](python/74_Search_a_2D_Matrix.py) |
+| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Stack | [Python 3](python/85_Maximal_Rectangle.py) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | Binary Tree |  [Python 3](python/94_Binary_Tree_Inorder_Traversal.py)  |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
@@ -33,3 +34,5 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix) |   | [Python 3](python/542_01_Matrix.py) |
 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Graph |[Python 3](python/576_Out_of_Boundary_Paths.py) |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance)  | BFS  |  [Python 3](python/690_Employee_Importance.py) |
+| [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)  |  Hashing   |  [Python 3](python/692_Top_K_Frequent_Words.py)  |
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)  | Dynamic Programming |  [Python 3](python/718_Maximum_Length_of_Repeated_Subarray.py)

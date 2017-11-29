@@ -10,7 +10,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Binary Search | [Python 3](python/34_Search_for_a_Range.py) |
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Binary Search  | [Python 3](python/35_Search_Insert_Position.py) |
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Hashing  | [Python 3](python/36_Valid_Sudoku.py)  |
-|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  Hashing  | [Python 3](python3/49_Group_Anagrams.py)  |
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams) |  Hashing  | [Python 3](python/49_Group_Anagrams.py)  |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | [Python 3](python/74_Search_a_2D_Matrix.py) |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Stack | [Python 3](python/85_Maximal_Rectangle.py) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | Binary Tree |  [Python 3](python/94_Binary_Tree_Inorder_Traversal.py)  |
@@ -19,8 +19,8 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph) |BFS/DFS | [Python 3](python/133_Clone_Graph.py)  |
 | [136. Single Number](https://leetcode.com/problems/single-number)  | Bit Manipulation | [Python 3](python/136_Single_Number.py)  |
-| [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hashing | [Python 3](python3/202_Happy_Number.py)  |
-| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hashing | [Python 3](python3/205_Isomorphic_Strings.py)  |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hashing | [Python 3](python/202_Happy_Number.py)  |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hashing | [Python 3](python/205_Isomorphic_Strings.py)  |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |
 | [329. Longest Increasing Path in a Matrix ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| DFS | [Python 3](python/329_Longest_Increasing_Path_in_a_Matrix.py)|
@@ -33,6 +33,8 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [529. Minesweeper](https://leetcode.com/problems/minesweeper/) | DFS | [Python 3](python/529_Minesweeper.py)
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix) |   | [Python 3](python/542_01_Matrix.py) |
 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Graph |[Python 3](python/576_Out_of_Boundary_Paths.py) |
+| [648. Replace Words](https://leetcode.com/problems/replace-words/) | Trie | [Python 3](python/648_Replace_Words.py) |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance)  | BFS  |  [Python 3](python/690_Employee_Importance.py) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)  |  Hashing   |  [Python 3](python/692_Top_K_Frequent_Words.py)  |
-| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)  | Dynamic Programming |  [Python 3](python/718_Maximum_Length_of_Repeated_Subarray.py)
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)  | Dynamic Programming |  [Python 3](python/718_Maximum_Length_of_Repeated_Subarray.py) |
+| [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | Hashing  | [Python 3](python/720_Longest_Word_in_Dictionary.py)  |

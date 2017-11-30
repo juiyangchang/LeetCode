@@ -6,6 +6,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 |-----------------|---|---------------|
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table| [Python 3](python/3_Longest_Substring_Without_Repeating_Characters.py)   |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search | [Python 3](python/4_Median_of_Two_Sorted_Arrays.py) |
+| [18. 4Sum](https://leetcode.com/problems/4sum) | Two Pointer | [Python 3](python/18_4Sum.py) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | [Python 3](python/33_Search_in_Rotated_Sorted_Array.py)| 
 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Binary Search | [Python 3](python/34_Search_for_a_Range.py) |
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Binary Search  | [Python 3](python/35_Search_Insert_Position.py) |
@@ -36,6 +37,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](python/417_Pacific_Atlantic_Water_Flow.py) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |Hash Table  | [Python 3](python/451_Sort_Characters_By_Frequency.py) |
+| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](code python/454_4SumII.py) |
 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Backtracking | [Python 3](python/473_Matchsticks_to_Square.py) |
 | [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) |Backtracking | [Python 3](python/491_Increasing_Subsequences.py) |
 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Tree | [Python 3](python/508_Most_Frequent_Subtree_Sum.py) |

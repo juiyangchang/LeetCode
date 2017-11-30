@@ -20,14 +20,17 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph) |BFS/DFS | [Python 3](python/133_Clone_Graph.py)  |
 | [136. Single Number](https://leetcode.com/problems/single-number)  | Bit Manipulation | [Python 3](python/136_Single_Number.py)  |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |  Hash Table | [Python 3](python/138_Copy_List_with_Random_Pointer.py) |
+| [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | Hash Table | [Python 3](python/166_Fraction_to_Recurring_Decimal.py) |
 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Hash Table |  [Python 3](python/187_Repeated_DNA_Sequences.py) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Python 3](python/202_Happy_Number.py)  |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hash Table | [Python 3](python/205_Isomorphic_Strings.py)  |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
 | [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_H-Index.py)      |
+| [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Hash Table | [Python 3](python/299_Bulls_and_Cows.py) |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |
 | [329. Longest Increasing Path in a Matrix ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| DFS | [Python 3](python/329_Longest_Increasing_Path_in_a_Matrix.py)|
 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Stack  | [Python 3](python/332_Reconstruct_Itinerary.py) |
+| [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | Hash Table, Heap |  [Python 3](python/355_Design_Twitter.py) |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Hash Table | [Python 3](python/380_Insert_Delete_GetRandom_O(1).py)    |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)  | Hash Table | [Python 3](python/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
@@ -43,6 +46,8 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/) | Hash Table | [Python 3](python/554_Brick_Wall.py) |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Tree   |  [Python 3](python/572_Subtree_of_Another_Tree.py)      |
 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Graph |[Python 3](python/576_Out_of_Boundary_Paths.py) |
+| [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Hash Table | [Python 3](python/609_Find_Duplicate_File_in_System.py) |
+| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Hash Table | [Python 3](python/645_Set_Mismatch.py) |
 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Trie | [Python 3](python/648_Replace_Words.py) |
 | [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary) | Hash Table, Medium, Trivial| [Python 3](python/676_Implement_Magic_Dictionary.py) |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance)  | BFS  |  [Python 3](python/690_Employee_Importance.py) |

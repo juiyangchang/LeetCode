@@ -26,15 +26,19 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | DP | [Python 3](python/120_Triangle.py) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | DP | [Python 3](python/121_Best_Time_to_Buy_and_Sell_Stock.py) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph) |BFS/DFS | [Python 3](python/133_Clone_Graph.py)  |
 | [136. Single Number](https://leetcode.com/problems/single-number)  | Bit Manipulation | [Python 3](python/136_Single_Number.py)  |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |  Hash Table | [Python 3](python/138_Copy_List_with_Random_Pointer.py) |
+| [139. Word Break](https://leetcode.com/problems/word-break)  |  DP | [Python 3](python/139_Word_Break.py) |
 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | Hash Table | [Python 3](python/166_Fraction_to_Recurring_Decimal.py) |
 | [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Hash Table |  [Python 3](python/187_Repeated_DNA_Sequences.py) |
 | [198. House Robber](https://leetcode.com/problems/house-robber)  | DP | [Python 3](python/198_House_Robber.py) |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table | [Python 3](python/202_Happy_Number.py)  |
-| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hash Table | [Python 3](python/205_Isomorphic_Strings.py)  |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hash Table | [Python 3](python/205_Isomorphic_Strings.py)  | \
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii) | DP | [Python 3](python/213_House_Robber_II.py) |
+| [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | DP | [Python 3](python/221_Maximal_Square.py) |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
 | [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_H-Index.py)      |
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Hash Table | [Python 3](python/299_Bulls_and_Cows.py) |

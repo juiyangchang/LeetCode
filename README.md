@@ -21,6 +21,8 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Stack | [Python 3](python/85_Maximal_Rectangle.py) |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways) | DP | [Python 3](python/91_Decode_Ways.py) |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | Binary Tree |  [Python 3](python/94_Binary_Tree_Inorder_Traversal.py)  |
+| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)   |  DP  | [Python 3](python/95_Unique_Binary_Search_Trees_II.py) |
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | DP  | [Python 3](python/96_Unique_Binary_Search_Trees.py) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |   |[Python 3](python/101_Symmetric_Tree.py) |
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | |[Python 3](python/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)| | [Python 3](python/111_Minimum_Depth_of_Binary_Tree.py) |

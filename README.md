@@ -41,7 +41,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | DP | [Python 3](python/221_Maximal_Square.py) |
 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  | DP  | [Python 3](python/264_Ugly_Number_II.py) |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
-| [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_(H-Index.py)      |
+| [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_H-Index.py)      |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | DP | [Python 3](python/279_Perfect_Squares.py) |
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Hash Table | [Python 3](python/299_Bulls_and_Cows.py) |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |

@@ -39,8 +39,10 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | Hash Table | [Python 3](python/205_Isomorphic_Strings.py)  | \
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii) | DP | [Python 3](python/213_House_Robber_II.py) |
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | DP | [Python 3](python/221_Maximal_Square.py) |
+| [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  | DP  | [Python 3](python/264_Ugly_Number_II.py) |
 | [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
-| [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_H-Index.py)      |
+| [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_(H-Index.py)      |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | DP | [Python 3](python/279_Perfect_Squares.py) |
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Hash Table | [Python 3](python/299_Bulls_and_Cows.py) |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |
 | [329. Longest Increasing Path in a Matrix ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| DFS | [Python 3](python/329_Longest_Increasing_Path_in_a_Matrix.py)|
@@ -51,7 +53,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](python/417_Pacific_Atlantic_Water_Flow.py) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |Hash Table  | [Python 3](python/451_Sort_Characters_By_Frequency.py) |
-| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](code python/454_4SumII.py) |
+| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](python/454_4SumII.py) |
 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Backtracking | [Python 3](python/473_Matchsticks_to_Square.py) |
 | [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) |Backtracking | [Python 3](python/491_Increasing_Subsequences.py) |
 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Tree | [Python 3](python/508_Most_Frequent_Subtree_Sum.py) |

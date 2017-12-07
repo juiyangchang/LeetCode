@@ -8,7 +8,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Binary Search | [Python 3](python/4_Median_of_Two_Sorted_Arrays.py) |
 | [18. 4Sum](https://leetcode.com/problems/4sum) | Two Pointer | [Python 3](python/18_4Sum.py) |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |   | [Python 3](python/29_Divide_Two_Integers.py) |
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | [Python 3](python/33_Search_in_Rotated_Sorted_Array.py)| 
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | [Python 3](python/33_Search_in_Rotated_Sorted_Array.py)|
 | [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Binary Search | [Python 3](python/34_Search_for_a_Range.py) |
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Binary Search  | [Python 3](python/35_Search_Insert_Position.py) |
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  Hash Table  | [Python 3](python/36_Valid_Sudoku.py)  |
@@ -40,14 +40,22 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii) | DP | [Python 3](python/213_House_Robber_II.py) |
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | DP | [Python 3](python/221_Maximal_Square.py) |
 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  | DP  | [Python 3](python/264_Ugly_Number_II.py) |
-| [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) | 
+| [273.	Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| Iterative, Facebook | [Python 3](python/273_Integer_to_English_Words.py) |
 | [274. H-Index](https://leetcode.com/problems/h-index/)  |  Bucket Sort | [Python 3](python/274_H-Index.py)      |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | DP | [Python 3](python/279_Perfect_Squares.py) |
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Hash Table | [Python 3](python/299_Bulls_and_Cows.py) |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | Binary Search | [Python 3](python/300_Longest_Increasing_Subsequence.py) |
+| [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) |  DP  |  [Python 3](python/304_Range_Sum_Query_2D-Immutable.py) |
+| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)  | DP | [Python 3](python/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py) |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) |BFS, Google | [Python 3](python/310_Minimum_Height_Trees.py)  |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | DP, BFS | [Python 3](python/322_Coin_Change.py) |
 | [329. Longest Increasing Path in a Matrix ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)| DFS | [Python 3](python/329_Longest_Increasing_Path_in_a_Matrix.py)|
 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Stack  | [Python 3](python/332_Reconstruct_Itinerary.py) |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits) | Bit manipulation | [Python 3](python/338_Counting_Bits.py) |
+| [343. Integer Break](https://leetcode.com/problems/integer-break/) | DP | [Python 3](python/343_Integer_Break.py) |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | Hash Table, Heap |  [Python 3](python/355_Design_Twitter.py) |
+| [368. Largest Divisible Subset ](https://leetcode.com/problems/largest-divisible-subset)  | DP  | [Python 3](python/368_Largest_Divisible_Subset.py) |
+| [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | DP | [Python 3](python/375_Guess_Number_Higher_or_Lower_II.py)  |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Hash Table | [Python 3](python/380_Insert_Delete_GetRandom_O(1).py)    |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)  | Hash Table | [Python 3](python/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |

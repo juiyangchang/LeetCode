@@ -56,9 +56,13 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | Hash Table, Heap |  [Python 3](python/355_Design_Twitter.py) |
 | [368. Largest Divisible Subset ](https://leetcode.com/problems/largest-divisible-subset)  | DP  | [Python 3](python/368_Largest_Divisible_Subset.py) |
 | [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | DP | [Python 3](python/375_Guess_Number_Higher_or_Lower_II.py)  |
+| [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) |  Greedy |  [Python 3](python/376_Wiggle_Subsequence.py) |
+| [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)  | Hash Table | [Python 3](python/377_Combination_Sum_IV.py) |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Hash Table | [Python 3](python/380_Insert_Delete_GetRandom_O(1).py)    |
 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)  | Hash Table | [Python 3](python/381_Insert_Delete_GetRandom_O(1)_Duplicates_allowed.py) |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | Binary Search | [Python 3](python/392_Is_Subsequence.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
+| [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |  DP  | [Python 3](python/413_Arithmetic_Slices.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](python/417_Pacific_Atlantic_Water_Flow.py) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |Hash Table  | [Python 3](python/451_Sort_Characters_By_Frequency.py) |
 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](python/454_4SumII.py) |

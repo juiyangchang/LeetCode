@@ -63,9 +63,13 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | Binary Search | [Python 3](python/392_Is_Subsequence.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |  DP  | [Python 3](python/413_Arithmetic_Slices.py) |
+| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |
+DP | [Python 3](python/416_Partition_Equal_Subset_Sum.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](python/417_Pacific_Atlantic_Water_Flow.py) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |Hash Table  | [Python 3](python/451_Sort_Characters_By_Frequency.py) |
 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](python/454_4SumII.py) |
+| [464. Can I Win](https://leetcode.com/problems/can-i-win/) | DP | [Python 3](python/464_Can_I_Win.py) |
+| [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string) | DP | [Python 3](python/467_Unique_Substrings_in_Wraparound_String.py) |
 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Backtracking | [Python 3](python/473_Matchsticks_to_Square.py) |
 | [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) |Backtracking | [Python 3](python/491_Increasing_Subsequences.py) |
 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Tree | [Python 3](python/508_Most_Frequent_Subtree_Sum.py) |
@@ -83,5 +87,6 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary) | Hash Table, Medium, Trivial| [Python 3](python/676_Implement_Magic_Dictionary.py) |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance)  | BFS  |  [Python 3](python/690_Employee_Importance.py) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)  |  Hash Table   |  [Python 3](python/692_Top_K_Frequent_Words.py)  |
+| [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | DFS + Backtracking | [Python 3](python/698_Partition_to_K_Equal_Sum_Subsets.py) |
 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)  | Dynamic Programming |  [Python 3](python/718_Maximum_Length_of_Repeated_Subarray.py) |
 | [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | Hash Table  | [Python 3](python/720_Longest_Word_in_Dictionary.py)  |

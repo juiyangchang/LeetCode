@@ -63,8 +63,7 @@ This is a (partial) list of Python scripts I've done on leetcode.com
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | Binary Search | [Python 3](python/392_Is_Subsequence.py) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Stack | [Python 3](python/394_Decode_String.py) |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) |  DP  | [Python 3](python/413_Arithmetic_Slices.py) |
-| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |
-DP | [Python 3](python/416_Partition_Equal_Subset_Sum.py) |
+| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | DP | [Python 3](python/416_Partition_Equal_Subset_Sum.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | [Python 3](python/417_Pacific_Atlantic_Water_Flow.py) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) |Hash Table  | [Python 3](python/451_Sort_Characters_By_Frequency.py) |
 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Hash Table | [Python 3](python/454_4SumII.py) |
